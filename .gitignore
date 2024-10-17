@@ -1,0 +1,12 @@
+# System-specific files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Log files
+*.log
+
+# Build directories
+bin/
+obj/
